@@ -1,5 +1,5 @@
-# latihan
-ini coba coba github
+# Training
+I try to use github
+I just try
 
-saya sedang mencoba coba
-
+-like algorithm
